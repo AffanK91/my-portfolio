@@ -4,9 +4,26 @@ body {
 
 header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: gray;
+    background-color: rgb(227, 217, 217);
     margin: 0;
     font-size: x-large;
+   color: rgb(132, 140, 116);
    
 }
 
+.prework {
+    display: inline-block;
+    
+}
+
+.headings {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: darkgreen;
+}
+footer{
+    text-align: center;
+    font: 500;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif        ;
+}
