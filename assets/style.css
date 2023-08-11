@@ -85,3 +85,6 @@ footer {
     border-style: dotted;
     border-width: 4px;
 }
+@media all and (min-width: 450px){
+  
+}
